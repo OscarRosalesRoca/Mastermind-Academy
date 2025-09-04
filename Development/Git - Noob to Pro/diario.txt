@@ -1,0 +1,4 @@
+Día 1: Explorando Git.
+Día 2: Aprendiendo sobre commits.
+Día 3: Descubriendo ramas.
+Día 4: Retrocediendo en el tiempo con checkout
